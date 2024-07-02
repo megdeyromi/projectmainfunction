@@ -1,0 +1,105 @@
+{
+    "projects": [
+        {
+            "id": 1,
+            "name": "Project Alpha",
+            "startDate": "2024-01-01",
+            "endDate": "2024-06-30",
+            "ITD cost": 150000,
+            "status": "In Progress",
+            "owner": "John Doe",
+            "department": "Engineering"
+        },
+        {
+            "id": 2,
+            "name": "Project Beta",
+            "startDate": "2024-02-01",
+            "endDate": "2024-07-31",
+            "ITD cost": 250000,
+            "status": "Not Started",
+            "owner": "Jane Smith",
+            "department": "Marketing"
+        },
+        {
+            "id": 3,
+            "name": "Project Gamma",
+            "startDate": "2024-03-01",
+            "endDate": "2024-08-31",
+            "ITD cost": 175000,
+            "status": "Completed",
+            "owner": "Alice Johnson",
+            "department": "Sales"
+        },
+        {
+            "id": 4,
+            "name": "Project Delta",
+            "startDate": "2024-04-01",
+            "endDate": "2024-09-30",
+            "ITD cost": 200000,
+            "status": "In Progress",
+            "owner": "Bob Brown",
+            "department": "Finance"
+        },
+        {
+            "id": 5,
+            "name": "Project Epsilon",
+            "startDate": "2024-05-01",
+            "endDate": "2024-10-31",
+            "ITD cost": 225000,
+            "status": "Not Started",
+            "owner": "Charlie Black",
+            "department": "HR"
+        },
+        {
+            "id": 6,
+            "name": "Project Zeta",
+            "startDate": "2024-06-01",
+            "endDate": "2024-11-30",
+            "ITD cost": 195000,
+            "status": "Completed",
+            "owner": "Diana Green",
+            "department": "IT"
+        },
+        {
+            "id": 7,
+            "name": "Project Eta",
+            "startDate": "2024-07-01",
+            "endDate": "2024-12-31",
+            "ITD cost": 175000,
+            "status": "In Progress",
+            "owner": "Eve White",
+            "department": "Operations"
+        },
+        {
+            "id": 8,
+            "name": "Project Theta",
+            "startDate": "2024-08-01",
+            "endDate": "2025-01-31",
+            "ITD cost": 225000,
+            "status": "Not Started",
+            "owner": "Frank Blue",
+            "department": "Legal"
+        },
+        {
+            "id": 9,
+            "name": "Project Iota",
+            "startDate": "2024-09-01",
+            "endDate": "2025-02-28",
+            "ITD cost": 250000,
+            "status": "In Progress",
+            "owner": "Grace Yellow",
+            "department": "R&D"
+        },
+        {
+            "id": 10,
+            "name": "Project Kappa",
+            "startDate": "2024-10-01",
+            "endDate": "2025-03-31",
+            "ITD cost": 275000,
+            "status": "Completed",
+            "owner": "Hank Purple",
+            "department": "Admin"
+        }
+    ]
+}
+
