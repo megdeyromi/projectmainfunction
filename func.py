@@ -9,7 +9,7 @@ def handler(ctx, data: io.BytesIO=None):
 
     # Read JSON data from the file
     try:
-        with open('/path/to/projects.json', 'r') as file:  # Update the path to the JSON file
+        with open('projects.json', 'r') as file:  # Update the path to the JSON file
             projects = json.load(file)["projects"]
     except Exception as e:
         print(f"Failed to read JSON file: {str(e)}", flush=True)
